@@ -1,0 +1,12 @@
+{
+    "name": "Inya Chukwuemeka",
+    "description": "File managament using Local, S3,...",
+    "require": {
+        "aws/aws-sdk-php-laravel": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
